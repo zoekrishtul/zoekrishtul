@@ -1,21 +1,53 @@
-## Hi there👋 I'm Zoe!
-I'm a senior at the University of Central Florida, majoring in Computer Science with a minor in Cognitive Science. My passions lie at the intersection of AI, image processing, and 3D modeling. I love building impactful projects and exploring cutting-edge technologies.
+## Hi there 👋 I'm Zoe!
 
-📫 Let's Connect!
-LinkedIn: [Zoe Krishtul](https://www.linkedin.com/in/zoe-krishtul)
-Email: [zoekrishtul@gmail.com](mailto:zoekrishtul@gmail.com)
+I'm a recent graduate from the University of Central Florida with a B.S. in **Computer Science** and a minor in **Cognitive Science**.  
+My interests sit at the intersection of **AI, machine learning, computer vision, and practical software systems**. I enjoy building real, usable tools and experimenting with applied AI.
 
-💻 Technical Skills
-Programming Languages: Python, C, Java, JavaScript
-Tools & Frameworks: Unity, TensorFlow, PyTorch, Git
-Specialties: Machine Learning, Image Processing, 3D Modeling
+---
 
-Repositories
-🛠️ [MarketMaven](https://github.com/zoekrishtul/MarketMaven)  
-Description: This is my AI Studio project developed in collaboration with JPMorgan. The project focuses on leveraging machine learning models (like Linear Regression, SVM, XGBoost, and CatBoost) to predict stock market trends and provide insights for financial decision-making.
-Technologies: Python, Machine Learning (SVM, XGBoost, CatBoost), Financial Data Analysis
+### 📫 Connect With Me
+**LinkedIn:** [Zoe Krishtul](https://www.linkedin.com/in/zoe-krishtul)  
+**Email:** zoekrishtul@gmail.com
 
-📚 [SmartStacks](https://github.com/zoekrishtul/SmartStacks) 
-Description: A dynamic flashcard application built with JavaScript, CSS, HTML, and SQL. This project aims to improve study habits and help students efficiently manage their study materials through task management and an interactive interface.
-Technologies: JavaScript, SQL, Web Development
+---
 
+### 💻 Technical Skills
+**Languages:** Python, Java, C, JavaScript, Rust  
+**Tools & Frameworks:** Unity, Git, PyTorch (beginner–intermediate), TensorFlow, Jupyter, MATLAB  
+**Areas of Interest:**  
+- AI & LLM Systems  
+- Machine Learning  
+- Computer Vision  
+- Parallel Computing  
+- Simulation & 3D Interactive Tools
+
+---
+
+### 📁 Featured Projects
+
+#### 🛠️ [MarketMaven](https://github.com/zoekrishtul/MarketMaven)  
+Developed as part of the **J.P. Morgan AI Studio program**, this project predicts NASDAQ stock price movements using models such as CatBoost and SVM.  
+**Tech:** Python, scikit-learn, CatBoost, pandas
+
+---
+
+#### 📚 [SmartStacks](https://github.com/zoekrishtul/SmartStacks)  
+A simple flashcard application for creating and organizing study decks through a clean web interface.  
+**Tech:** JavaScript, HTML, CSS
+
+---
+
+#### 🔊 [ParallelViz](https://github.com/zoekrishtul/ParallelViz)  
+A parallel Fast Fourier Transform (FFT) implementation in Rust for audio spectral analysis.  
+**Tech:** Rust, Parallel Computing
+
+---
+
+#### 🏥 [Holotable Simulation](https://github.com/zoekrishtul/Holotable-Simulation) *(optional)*  
+Part of my senior design project: a multiplayer training simulation built in Unity for the Avalon holographic table.  
+**Tech:** Unity, C#, Mirror Networking
+
+---
+
+### ✨ About Me
+I'm currently focused on expanding my skills in **AI and LLM engineering**, preparing for graduate school, and building polished, real-world AI projects. I love tackling interdisciplinary challenges that mix software engineering with human-centered design and intelligent systems.
