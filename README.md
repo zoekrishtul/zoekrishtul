@@ -15,10 +15,6 @@ Repositories
 Description: This is my AI Studio project developed in collaboration with JPMorgan. The project focuses on leveraging machine learning models (like Linear Regression, SVM, XGBoost, and CatBoost) to predict stock market trends and provide insights for financial decision-making.
 Technologies: Python, Machine Learning (SVM, XGBoost, CatBoost), Financial Data Analysis
 
-🖼️ [CannyEdgeDetector](https://github.com/zoekrishtul/CannyEdgeDetector)
-Description: A project that implements the Marr-Hildreth edge detection algorithm to process PGM images. It utilizes Gaussian filters and convolution for image processing, producing clear results of image edges for further analysis and visualization.
-Technologies: C, Image Processing, Edge Detection, Convolution
-
 📚 [SmartStacks](https://github.com/zoekrishtul/SmartStacks) 
 Description: A dynamic flashcard application built with JavaScript, CSS, HTML, and SQL. This project aims to improve study habits and help students efficiently manage their study materials through task management and an interactive interface.
 Technologies: JavaScript, SQL, Web Development
