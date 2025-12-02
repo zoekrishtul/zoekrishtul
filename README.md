@@ -43,7 +43,7 @@ A parallel Fast Fourier Transform (FFT) implementation in Rust for audio spectra
 
 ---
 
-#### 🏥 [Holotable Simulation](https://github.com/zoekrishtul/Holotable-Simulation) *(optional)*  
+#### 🏥 [Holotable Simulation](https://github.com/zoekrishtul/HospitalScenario) 
 Part of my senior design project: a multiplayer training simulation built in Unity for the Avalon holographic table.  
 **Tech:** Unity, C#, Mirror Networking
 
